@@ -1,0 +1,3329 @@
+{
+    "documents": [
+        {
+            "name": "projects/class-5b03c/databases/(default)/documents/s3m03/16hS9JcRR72TQylDDSG5",
+            "fields": {
+                "date": {
+                    "integerValue": "1702144800"
+                },
+                "timeline": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Analog Electronics-II"
+                                        },
+                                        "id": {
+                                            "stringValue": "ae02"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Analog Electronics-II"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_ae02"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Electronics Circuit Design and Simulation"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_ecd_simu"
+                                        },
+                                        "status": {
+                                            "integerValue": "1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Analog Communication"
+                                        },
+                                        "id": {
+                                            "stringValue": "acom"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Analog Communication"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_acom"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Signal & Systems"
+                                        },
+                                        "id": {
+                                            "stringValue": "snsys"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Signal & Systems"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_snsys"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Data Structure & Algorithm"
+                                        },
+                                        "id": {
+                                            "stringValue": "dsa"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Data Structure & Algorithm"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_dsa"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Math"
+                                        },
+                                        "id": {
+                                            "stringValue": "mat115"
+                                        },
+                                        "status": {
+                                            "integerValue": "1"
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                },
+                "created_at": {
+                    "timestampValue": "2023-12-12T18:56:02.205Z"
+                },
+                "client": {
+                    "stringValue": "RUET_my_Ass_CLI"
+                },
+                "formatted_date": {
+                    "stringValue": "10 December, 2023"
+                }
+            },
+            "createTime": "2023-12-12T18:56:02.235596Z",
+            "updateTime": "2023-12-12T18:56:02.235596Z"
+        },
+        {
+            "name": "projects/class-5b03c/databases/(default)/documents/s3m03/32rMywUAhJEOgPbNNXW1",
+            "fields": {
+                "created_at": {
+                    "timestampValue": "2024-01-16T19:00:50.592Z"
+                },
+                "timeline": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Analog Electronics-II"
+                                        },
+                                        "id": {
+                                            "stringValue": "ae02"
+                                        },
+                                        "status": {
+                                            "integerValue": "1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Analog Electronics-II"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_ae02"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Electronics Circuit Design and Simulation"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_ecd_simu"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Analog Communication"
+                                        },
+                                        "id": {
+                                            "stringValue": "acom"
+                                        },
+                                        "status": {
+                                            "integerValue": "1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Analog Communication"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_acom"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Signal & Systems"
+                                        },
+                                        "id": {
+                                            "stringValue": "snsys"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Signal & Systems"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_snsys"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Data Structure & Algorithm"
+                                        },
+                                        "id": {
+                                            "stringValue": "dsa"
+                                        },
+                                        "status": {
+                                            "integerValue": "0"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Data Structure & Algorithm"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_dsa"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Math"
+                                        },
+                                        "id": {
+                                            "stringValue": "mat115"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                },
+                "formatted_date": {
+                    "stringValue": "16 January, 2024"
+                },
+                "client": {
+                    "stringValue": "Rulot_Android_App"
+                },
+                "date": {
+                    "integerValue": "1705363200000"
+                }
+            },
+            "createTime": "2024-01-16T19:00:50.654594Z",
+            "updateTime": "2024-01-16T19:00:50.654594Z"
+        },
+        {
+            "name": "projects/class-5b03c/databases/(default)/documents/s3m03/9ufOYj7TdOixVvyZVAfK",
+            "fields": {
+                "date": {
+                    "integerValue": "1703008800"
+                },
+                "client": {
+                    "stringValue": "RUET_my_Ass_CLI"
+                },
+                "created_at": {
+                    "timestampValue": "2023-12-21T07:41:10.644Z"
+                },
+                "formatted_date": {
+                    "stringValue": "20 December, 2023"
+                },
+                "timeline": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Analog Electronics-II"
+                                        },
+                                        "id": {
+                                            "stringValue": "ae02"
+                                        },
+                                        "status": {
+                                            "integerValue": "0"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Analog Electronics-II"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_ae02"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Electronics Circuit Design and Simulation"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_ecd_simu"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Analog Communication"
+                                        },
+                                        "id": {
+                                            "stringValue": "acom"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Analog Communication"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_acom"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Signal & Systems"
+                                        },
+                                        "id": {
+                                            "stringValue": "snsys"
+                                        },
+                                        "status": {
+                                            "integerValue": "0"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Signal & Systems"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_snsys"
+                                        },
+                                        "status": {
+                                            "integerValue": "0"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Data Structure & Algorithm"
+                                        },
+                                        "id": {
+                                            "stringValue": "dsa"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Data Structure & Algorithm"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_dsa"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Math"
+                                        },
+                                        "id": {
+                                            "stringValue": "mat115"
+                                        },
+                                        "status": {
+                                            "integerValue": "0"
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            "createTime": "2023-12-21T07:41:10.665893Z",
+            "updateTime": "2023-12-21T07:41:10.665893Z"
+        },
+        {
+            "name": "projects/class-5b03c/databases/(default)/documents/s3m03/9yZWA1Tylymm4X6XFMN9",
+            "fields": {
+                "created_at": {
+                    "timestampValue": "2024-01-23T17:03:27.506Z"
+                },
+                "formatted_date": {
+                    "stringValue": "23 January, 2024"
+                },
+                "client": {
+                    "stringValue": "Rulot_Android_App"
+                },
+                "timeline": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Analog Electronics-II"
+                                        },
+                                        "id": {
+                                            "stringValue": "ae02"
+                                        },
+                                        "status": {
+                                            "integerValue": "0"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Analog Electronics-II"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_ae02"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Electronics Circuit Design and Simulation"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_ecd_simu"
+                                        },
+                                        "status": {
+                                            "integerValue": "1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Analog Communication"
+                                        },
+                                        "id": {
+                                            "stringValue": "acom"
+                                        },
+                                        "status": {
+                                            "integerValue": "0"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Analog Communication"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_acom"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Signal & Systems"
+                                        },
+                                        "id": {
+                                            "stringValue": "snsys"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Signal & Systems"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_snsys"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Data Structure & Algorithm"
+                                        },
+                                        "id": {
+                                            "stringValue": "dsa"
+                                        },
+                                        "status": {
+                                            "integerValue": "0"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Data Structure & Algorithm"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_dsa"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Math"
+                                        },
+                                        "id": {
+                                            "stringValue": "mat115"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                },
+                "date": {
+                    "integerValue": "1706029379720"
+                }
+            },
+            "createTime": "2024-01-23T17:03:27.563921Z",
+            "updateTime": "2024-01-23T17:03:27.563921Z"
+        },
+        {
+            "name": "projects/class-5b03c/databases/(default)/documents/s3m03/JOeMT5nwryHgU9f9WN0N",
+            "fields": {
+                "timeline": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Analog Electronics-II"
+                                        },
+                                        "id": {
+                                            "stringValue": "ae02"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Analog Electronics-II"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_ae02"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Electronics Circuit Design and Simulation"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_ecd_simu"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Analog Communication"
+                                        },
+                                        "id": {
+                                            "stringValue": "acom"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Analog Communication"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_acom"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Signal & Systems"
+                                        },
+                                        "id": {
+                                            "stringValue": "snsys"
+                                        },
+                                        "status": {
+                                            "integerValue": "0"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Signal & Systems"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_snsys"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Data Structure & Algorithm"
+                                        },
+                                        "id": {
+                                            "stringValue": "dsa"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Data Structure & Algorithm"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_dsa"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Math"
+                                        },
+                                        "id": {
+                                            "stringValue": "mat115"
+                                        },
+                                        "status": {
+                                            "integerValue": "0"
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                },
+                "formatted_date": {
+                    "stringValue": "17 December, 2023"
+                },
+                "date": {
+                    "integerValue": "1702749600"
+                },
+                "client": {
+                    "stringValue": "RUET_my_Ass_CLI"
+                },
+                "created_at": {
+                    "timestampValue": "2023-12-17T08:25:13.950Z"
+                }
+            },
+            "createTime": "2023-12-17T08:25:13.999448Z",
+            "updateTime": "2023-12-17T08:25:13.999448Z"
+        },
+        {
+            "name": "projects/class-5b03c/databases/(default)/documents/s3m03/JOkqSHdjrvRAu3Ymwvo4",
+            "fields": {
+                "timeline": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Analog Electronics-II"
+                                        },
+                                        "id": {
+                                            "stringValue": "ae02"
+                                        },
+                                        "status": {
+                                            "integerValue": "1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Analog Electronics-II"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_ae02"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Electronics Circuit Design and Simulation"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_ecd_simu"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Analog Communication"
+                                        },
+                                        "id": {
+                                            "stringValue": "acom"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Analog Communication"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_acom"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Signal & Systems"
+                                        },
+                                        "id": {
+                                            "stringValue": "snsys"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Signal & Systems"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_snsys"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Data Structure & Algorithm"
+                                        },
+                                        "id": {
+                                            "stringValue": "dsa"
+                                        },
+                                        "status": {
+                                            "integerValue": "1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Data Structure & Algorithm"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_dsa"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Math"
+                                        },
+                                        "id": {
+                                            "stringValue": "mat115"
+                                        },
+                                        "status": {
+                                            "integerValue": "1"
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                },
+                "client": {
+                    "stringValue": "RUET_my_Ass_CLI"
+                },
+                "formatted_date": {
+                    "stringValue": "18 December, 2023"
+                },
+                "created_at": {
+                    "timestampValue": "2023-12-18T08:10:40.479Z"
+                },
+                "date": {
+                    "integerValue": "1702836000"
+                }
+            },
+            "createTime": "2023-12-18T08:10:40.522596Z",
+            "updateTime": "2023-12-18T08:10:40.522596Z"
+        },
+        {
+            "name": "projects/class-5b03c/databases/(default)/documents/s3m03/JbMZKI784H2Sdeinahkn",
+            "fields": {
+                "date": {
+                    "integerValue": "1705507219173"
+                },
+                "created_at": {
+                    "timestampValue": "2024-01-17T16:00:45.605Z"
+                },
+                "timeline": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Analog Electronics-II"
+                                        },
+                                        "id": {
+                                            "stringValue": "ae02"
+                                        },
+                                        "status": {
+                                            "integerValue": "0"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Analog Electronics-II"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_ae02"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Electronics Circuit Design and Simulation"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_ecd_simu"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Analog Communication"
+                                        },
+                                        "id": {
+                                            "stringValue": "acom"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Analog Communication"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_acom"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Signal & Systems"
+                                        },
+                                        "id": {
+                                            "stringValue": "snsys"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Signal & Systems"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_snsys"
+                                        },
+                                        "status": {
+                                            "integerValue": "0"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Data Structure & Algorithm"
+                                        },
+                                        "id": {
+                                            "stringValue": "dsa"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Data Structure & Algorithm"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_dsa"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Math"
+                                        },
+                                        "id": {
+                                            "stringValue": "mat115"
+                                        },
+                                        "status": {
+                                            "integerValue": "0"
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                },
+                "client": {
+                    "stringValue": "Rulot_Android_App"
+                },
+                "formatted_date": {
+                    "stringValue": "17 January, 2024"
+                }
+            },
+            "createTime": "2024-01-17T16:00:45.645230Z",
+            "updateTime": "2024-01-17T16:00:45.645230Z"
+        },
+        {
+            "name": "projects/class-5b03c/databases/(default)/documents/s3m03/KVidLNpnOoDz4K8q4Wro",
+            "fields": {
+                "date": {
+                    "integerValue": "1702058400"
+                },
+                "formatted_date": {
+                    "stringValue": "9 December, 2023"
+                },
+                "timeline": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Analog Electronics-II"
+                                        },
+                                        "id": {
+                                            "stringValue": "ae02"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Analog Electronics-II"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_ae02"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Electronics Circuit Design and Simulation"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_ecd_simu"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Analog Communication"
+                                        },
+                                        "id": {
+                                            "stringValue": "acom"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Analog Communication"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_acom"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Signal & Systems"
+                                        },
+                                        "id": {
+                                            "stringValue": "snsys"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Signal & Systems"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_snsys"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Data Structure & Algorithm"
+                                        },
+                                        "id": {
+                                            "stringValue": "dsa"
+                                        },
+                                        "status": {
+                                            "integerValue": "1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Data Structure & Algorithm"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_dsa"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Math"
+                                        },
+                                        "id": {
+                                            "stringValue": "mat115"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                },
+                "client": {
+                    "stringValue": "RUET_my_Ass_CLI"
+                },
+                "created_at": {
+                    "timestampValue": "2023-12-12T18:54:10.725Z"
+                }
+            },
+            "createTime": "2023-12-12T18:54:10.761922Z",
+            "updateTime": "2023-12-12T18:54:10.761922Z"
+        },
+        {
+            "name": "projects/class-5b03c/databases/(default)/documents/s3m03/PH6q8Rca8WdSlEHkZKb0",
+            "fields": {
+                "created_at": {
+                    "timestampValue": "2024-01-21T17:03:07.642Z"
+                },
+                "timeline": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Analog Electronics-II"
+                                        },
+                                        "id": {
+                                            "stringValue": "ae02"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Analog Electronics-II"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_ae02"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Electronics Circuit Design and Simulation"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_ecd_simu"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Analog Communication"
+                                        },
+                                        "id": {
+                                            "stringValue": "acom"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Analog Communication"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_acom"
+                                        },
+                                        "status": {
+                                            "integerValue": "0"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Signal & Systems"
+                                        },
+                                        "id": {
+                                            "stringValue": "snsys"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Signal & Systems"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_snsys"
+                                        },
+                                        "status": {
+                                            "integerValue": "0"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Data Structure & Algorithm"
+                                        },
+                                        "id": {
+                                            "stringValue": "dsa"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Data Structure & Algorithm"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_dsa"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Math"
+                                        },
+                                        "id": {
+                                            "stringValue": "mat115"
+                                        },
+                                        "status": {
+                                            "integerValue": "0"
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                },
+                "formatted_date": {
+                    "stringValue": "21 January, 2024"
+                },
+                "date": {
+                    "integerValue": "1705856487314"
+                },
+                "client": {
+                    "stringValue": "Rulot_Android_App"
+                }
+            },
+            "createTime": "2024-01-21T17:03:07.676865Z",
+            "updateTime": "2024-01-21T17:03:07.676865Z"
+        },
+        {
+            "name": "projects/class-5b03c/databases/(default)/documents/s3m03/T0A0ASpGEqQHO6VjGA9q",
+            "fields": {
+                "formatted_date": {
+                    "stringValue": "13 January, 2024"
+                },
+                "created_at": {
+                    "timestampValue": "2024-01-14T22:53:01.099Z"
+                },
+                "timeline": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Analog Electronics-II"
+                                        },
+                                        "id": {
+                                            "stringValue": "ae02"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Analog Electronics-II"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_ae02"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Electronics Circuit Design and Simulation"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_ecd_simu"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Analog Communication"
+                                        },
+                                        "id": {
+                                            "stringValue": "acom"
+                                        },
+                                        "status": {
+                                            "integerValue": "1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Analog Communication"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_acom"
+                                        },
+                                        "status": {
+                                            "integerValue": "1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Signal & Systems"
+                                        },
+                                        "id": {
+                                            "stringValue": "snsys"
+                                        },
+                                        "status": {
+                                            "integerValue": "1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Signal & Systems"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_snsys"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Data Structure & Algorithm"
+                                        },
+                                        "id": {
+                                            "stringValue": "dsa"
+                                        },
+                                        "status": {
+                                            "integerValue": "1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Data Structure & Algorithm"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_dsa"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Math"
+                                        },
+                                        "id": {
+                                            "stringValue": "mat115"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                },
+                "date": {
+                    "integerValue": "1705104000000"
+                },
+                "client": {
+                    "stringValue": "Rulot_Android_App"
+                }
+            },
+            "createTime": "2024-01-14T22:53:01.124116Z",
+            "updateTime": "2024-01-14T22:53:01.124116Z"
+        },
+        {
+            "name": "projects/class-5b03c/databases/(default)/documents/s3m03/Tb5uuuYpNZc2IFXBRoce",
+            "fields": {
+                "client": {
+                    "stringValue": "Rulot_Android_App"
+                },
+                "date": {
+                    "integerValue": "1705276800000"
+                },
+                "formatted_date": {
+                    "stringValue": "15 January, 2024"
+                },
+                "timeline": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Analog Electronics-II"
+                                        },
+                                        "id": {
+                                            "stringValue": "ae02"
+                                        },
+                                        "status": {
+                                            "integerValue": "0"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Analog Electronics-II"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_ae02"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Electronics Circuit Design and Simulation"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_ecd_simu"
+                                        },
+                                        "status": {
+                                            "integerValue": "1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Analog Communication"
+                                        },
+                                        "id": {
+                                            "stringValue": "acom"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Analog Communication"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_acom"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Signal & Systems"
+                                        },
+                                        "id": {
+                                            "stringValue": "snsys"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Signal & Systems"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_snsys"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Data Structure & Algorithm"
+                                        },
+                                        "id": {
+                                            "stringValue": "dsa"
+                                        },
+                                        "status": {
+                                            "integerValue": "0"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Data Structure & Algorithm"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_dsa"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Math"
+                                        },
+                                        "id": {
+                                            "stringValue": "mat115"
+                                        },
+                                        "status": {
+                                            "integerValue": "0"
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                },
+                "created_at": {
+                    "timestampValue": "2024-01-15T12:29:56.105Z"
+                }
+            },
+            "createTime": "2024-01-15T12:29:56.167661Z",
+            "updateTime": "2024-01-15T12:29:56.167661Z"
+        },
+        {
+            "name": "projects/class-5b03c/databases/(default)/documents/s3m03/VFqvx8HSHdHhpnonvygM",
+            "fields": {
+                "date": {
+                    "integerValue": "1702404000"
+                },
+                "formatted_date": {
+                    "stringValue": "13 December, 2023"
+                },
+                "timeline": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Analog Electronics-II"
+                                        },
+                                        "id": {
+                                            "stringValue": "ae02"
+                                        },
+                                        "status": {
+                                            "integerValue": "0"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Analog Electronics-II"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_ae02"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Electronics Circuit Design and Simulation"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_ecd_simu"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Analog Communication"
+                                        },
+                                        "id": {
+                                            "stringValue": "acom"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Analog Communication"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_acom"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Signal & Systems"
+                                        },
+                                        "id": {
+                                            "stringValue": "snsys"
+                                        },
+                                        "status": {
+                                            "integerValue": "1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Signal & Systems"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_snsys"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Data Structure & Algorithm"
+                                        },
+                                        "id": {
+                                            "stringValue": "dsa"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Data Structure & Algorithm"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_dsa"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Math"
+                                        },
+                                        "id": {
+                                            "stringValue": "mat115"
+                                        },
+                                        "status": {
+                                            "integerValue": "1"
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                },
+                "created_at": {
+                    "timestampValue": "2023-12-13T07:11:35.810Z"
+                },
+                "client": {
+                    "stringValue": "RUET_my_Ass_CLI"
+                }
+            },
+            "createTime": "2023-12-13T07:11:35.836535Z",
+            "updateTime": "2023-12-13T07:11:35.836535Z"
+        },
+        {
+            "name": "projects/class-5b03c/databases/(default)/documents/s3m03/VbEocorti2qxWbfhKN5Y",
+            "fields": {
+                "created_at": {
+                    "timestampValue": "2024-01-20T17:02:36.538Z"
+                },
+                "formatted_date": {
+                    "stringValue": "20 January, 2024"
+                },
+                "client": {
+                    "stringValue": "Rulot_Android_App"
+                },
+                "date": {
+                    "integerValue": "1705770068513"
+                },
+                "timeline": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Analog Electronics-II"
+                                        },
+                                        "id": {
+                                            "stringValue": "ae02"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Analog Electronics-II"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_ae02"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Electronics Circuit Design and Simulation"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_ecd_simu"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Analog Communication"
+                                        },
+                                        "id": {
+                                            "stringValue": "acom"
+                                        },
+                                        "status": {
+                                            "integerValue": "0"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Analog Communication"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_acom"
+                                        },
+                                        "status": {
+                                            "integerValue": "0"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Signal & Systems"
+                                        },
+                                        "id": {
+                                            "stringValue": "snsys"
+                                        },
+                                        "status": {
+                                            "integerValue": "0"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Signal & Systems"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_snsys"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Data Structure & Algorithm"
+                                        },
+                                        "id": {
+                                            "stringValue": "dsa"
+                                        },
+                                        "status": {
+                                            "integerValue": "0"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Data Structure & Algorithm"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_dsa"
+                                        },
+                                        "status": {
+                                            "integerValue": "0"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Math"
+                                        },
+                                        "id": {
+                                            "stringValue": "mat115"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            "createTime": "2024-01-20T17:02:36.588338Z",
+            "updateTime": "2024-01-20T17:02:36.588338Z"
+        },
+        {
+            "name": "projects/class-5b03c/databases/(default)/documents/s3m03/c9rszsN3N5DkFcDlnORO",
+            "fields": {
+                "formatted_date": {
+                    "stringValue": "12 December, 2023"
+                },
+                "timeline": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Analog Electronics-II"
+                                        },
+                                        "id": {
+                                            "stringValue": "ae02"
+                                        },
+                                        "status": {
+                                            "integerValue": "1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Analog Electronics-II"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_ae02"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Electronics Circuit Design and Simulation"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_ecd_simu"
+                                        },
+                                        "status": {
+                                            "integerValue": "1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Analog Communication"
+                                        },
+                                        "id": {
+                                            "stringValue": "acom"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Analog Communication"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_acom"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Signal & Systems"
+                                        },
+                                        "id": {
+                                            "stringValue": "snsys"
+                                        },
+                                        "status": {
+                                            "integerValue": "1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Signal & Systems"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_snsys"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Data Structure & Algorithm"
+                                        },
+                                        "id": {
+                                            "stringValue": "dsa"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Data Structure & Algorithm"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_dsa"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Math"
+                                        },
+                                        "id": {
+                                            "stringValue": "mat115"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                },
+                "date": {
+                    "integerValue": "1702317600"
+                },
+                "client": {
+                    "stringValue": "RUET_my_Ass_CLI"
+                },
+                "created_at": {
+                    "timestampValue": "2023-12-12T19:04:13.378Z"
+                }
+            },
+            "createTime": "2023-12-12T19:04:13.412157Z",
+            "updateTime": "2023-12-12T19:04:13.412157Z"
+        },
+        {
+            "name": "projects/class-5b03c/databases/(default)/documents/s3m03/d0YBglFPt48nEmlhJpEs",
+            "fields": {
+                "date": {
+                    "integerValue": "1702231200"
+                },
+                "client": {
+                    "stringValue": "RUET_my_Ass_CLI"
+                },
+                "formatted_date": {
+                    "stringValue": "11 December, 2023"
+                },
+                "created_at": {
+                    "timestampValue": "2023-12-12T18:57:59.930Z"
+                },
+                "timeline": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Analog Electronics-II"
+                                        },
+                                        "id": {
+                                            "stringValue": "ae02"
+                                        },
+                                        "status": {
+                                            "integerValue": "0"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Analog Electronics-II"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_ae02"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Electronics Circuit Design and Simulation"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_ecd_simu"
+                                        },
+                                        "status": {
+                                            "integerValue": "0"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Analog Communication"
+                                        },
+                                        "id": {
+                                            "stringValue": "acom"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Analog Communication"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_acom"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Signal & Systems"
+                                        },
+                                        "id": {
+                                            "stringValue": "snsys"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Signal & Systems"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_snsys"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Data Structure & Algorithm"
+                                        },
+                                        "id": {
+                                            "stringValue": "dsa"
+                                        },
+                                        "status": {
+                                            "integerValue": "0"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Data Structure & Algorithm"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_dsa"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Math"
+                                        },
+                                        "id": {
+                                            "stringValue": "mat115"
+                                        },
+                                        "status": {
+                                            "integerValue": "0"
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            "createTime": "2023-12-12T18:57:59.957583Z",
+            "updateTime": "2023-12-12T18:57:59.957583Z"
+        },
+        {
+            "name": "projects/class-5b03c/databases/(default)/documents/s3m03/lQmYue0bgsFDwbjGMbK2",
+            "fields": {
+                "timeline": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Analog Electronics-II"
+                                        },
+                                        "id": {
+                                            "stringValue": "ae02"
+                                        },
+                                        "status": {
+                                            "integerValue": "0"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Analog Electronics-II"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_ae02"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Electronics Circuit Design and Simulation"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_ecd_simu"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Analog Communication"
+                                        },
+                                        "id": {
+                                            "stringValue": "acom"
+                                        },
+                                        "status": {
+                                            "integerValue": "0"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Analog Communication"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_acom"
+                                        },
+                                        "status": {
+                                            "integerValue": "0"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Signal & Systems"
+                                        },
+                                        "id": {
+                                            "stringValue": "snsys"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Signal & Systems"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_snsys"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Data Structure & Algorithm"
+                                        },
+                                        "id": {
+                                            "stringValue": "dsa"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Data Structure & Algorithm"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_dsa"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Math"
+                                        },
+                                        "id": {
+                                            "stringValue": "mat115"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                },
+                "created_at": {
+                    "timestampValue": "2023-12-19T21:05:46.827Z"
+                },
+                "formatted_date": {
+                    "stringValue": "19 December, 2023"
+                },
+                "client": {
+                    "stringValue": "RUET_my_Ass_CLI"
+                },
+                "date": {
+                    "integerValue": "1702922400"
+                }
+            },
+            "createTime": "2023-12-19T21:05:46.868615Z",
+            "updateTime": "2023-12-19T21:05:46.868615Z"
+        },
+        {
+            "name": "projects/class-5b03c/databases/(default)/documents/s3m03/qIIatSphxnaKzumGsRdg",
+            "fields": {
+                "created_at": {
+                    "timestampValue": "2024-01-14T22:56:59.861Z"
+                },
+                "date": {
+                    "integerValue": "1705190400000"
+                },
+                "timeline": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Analog Electronics-II"
+                                        },
+                                        "id": {
+                                            "stringValue": "ae02"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Analog Electronics-II"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_ae02"
+                                        },
+                                        "status": {
+                                            "integerValue": "0"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Electronics Circuit Design and Simulation"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_ecd_simu"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Analog Communication"
+                                        },
+                                        "id": {
+                                            "stringValue": "acom"
+                                        },
+                                        "status": {
+                                            "integerValue": "0"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Analog Communication"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_acom"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Signal & Systems"
+                                        },
+                                        "id": {
+                                            "stringValue": "snsys"
+                                        },
+                                        "status": {
+                                            "integerValue": "0"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Signal & Systems"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_snsys"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Data Structure & Algorithm"
+                                        },
+                                        "id": {
+                                            "stringValue": "dsa"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Data Structure & Algorithm"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_dsa"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Math"
+                                        },
+                                        "id": {
+                                            "stringValue": "mat115"
+                                        },
+                                        "status": {
+                                            "integerValue": "0"
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                },
+                "formatted_date": {
+                    "stringValue": "14 January, 2024"
+                },
+                "client": {
+                    "stringValue": "Rulot_Android_App"
+                }
+            },
+            "createTime": "2024-01-14T22:56:59.904100Z",
+            "updateTime": "2024-01-14T22:56:59.904100Z"
+        },
+        {
+            "name": "projects/class-5b03c/databases/(default)/documents/s3m03/w2rwrzkUyHNAd3OaUEue",
+            "fields": {
+                "client": {
+                    "stringValue": "Rulot_Android_App"
+                },
+                "timeline": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Analog Electronics-II"
+                                        },
+                                        "id": {
+                                            "stringValue": "ae02"
+                                        },
+                                        "status": {
+                                            "integerValue": "1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Analog Electronics-II"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_ae02"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Electronics Circuit Design and Simulation"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_ecd_simu"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Analog Communication"
+                                        },
+                                        "id": {
+                                            "stringValue": "acom"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Analog Communication"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_acom"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Signal & Systems"
+                                        },
+                                        "id": {
+                                            "stringValue": "snsys"
+                                        },
+                                        "status": {
+                                            "integerValue": "0"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Signal & Systems"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_snsys"
+                                        },
+                                        "status": {
+                                            "integerValue": "1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Data Structure & Algorithm"
+                                        },
+                                        "id": {
+                                            "stringValue": "dsa"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Data Structure & Algorithm"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_dsa"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Math"
+                                        },
+                                        "id": {
+                                            "stringValue": "mat115"
+                                        },
+                                        "status": {
+                                            "integerValue": "1"
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                },
+                "date": {
+                    "integerValue": "1706115894048"
+                },
+                "formatted_date": {
+                    "stringValue": "24 January, 2024"
+                },
+                "created_at": {
+                    "timestampValue": "2024-01-24T17:05:55.819Z"
+                }
+            },
+            "createTime": "2024-01-24T17:05:55.873685Z",
+            "updateTime": "2024-01-24T17:05:55.873685Z"
+        },
+        {
+            "name": "projects/class-5b03c/databases/(default)/documents/s3m03/yo2WKpawxWyzECLzReZu",
+            "fields": {
+                "formatted_date": {
+                    "stringValue": "22 January, 2024"
+                },
+                "date": {
+                    "integerValue": "1705923345542"
+                },
+                "timeline": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Analog Electronics-II"
+                                        },
+                                        "id": {
+                                            "stringValue": "ae02"
+                                        },
+                                        "status": {
+                                            "integerValue": "1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Analog Electronics-II"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_ae02"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Electronics Circuit Design and Simulation"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_ecd_simu"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Analog Communication"
+                                        },
+                                        "id": {
+                                            "stringValue": "acom"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Analog Communication"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_acom"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Signal & Systems"
+                                        },
+                                        "id": {
+                                            "stringValue": "snsys"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Signal & Systems"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_snsys"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Data Structure & Algorithm"
+                                        },
+                                        "id": {
+                                            "stringValue": "dsa"
+                                        },
+                                        "status": {
+                                            "integerValue": "1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "LAB: Data Structure & Algorithm"
+                                        },
+                                        "id": {
+                                            "stringValue": "lb_dsa"
+                                        },
+                                        "status": {
+                                            "integerValue": "-1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "mapValue": {
+                                    "fields": {
+                                        "name": {
+                                            "stringValue": "Math"
+                                        },
+                                        "id": {
+                                            "stringValue": "mat115"
+                                        },
+                                        "status": {
+                                            "integerValue": "1"
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                },
+                "client": {
+                    "stringValue": "Rulot_Android_App"
+                },
+                "created_at": {
+                    "timestampValue": "2024-01-22T11:36:39.115Z"
+                }
+            },
+            "createTime": "2024-01-22T11:36:39.160226Z",
+            "updateTime": "2024-01-22T11:36:39.160226Z"
+        }
+    ]
+}
