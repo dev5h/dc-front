@@ -147,7 +147,7 @@ def update_status():
     return jsonify({'message': 'Status updated successfully'})
 
 def main():
-    app.run(port=8080, debug=True)
+    app.run()
 
 if __name__ == "__main__":
     main()
