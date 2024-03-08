@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Orders List</title>
+    <!-- Bootstrap CSS -->
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+    />
+    <style>
+      body,
+      html {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+      body {
+        background-color: #232323; /* Light Gray Background */
+      }
+      .container-box {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100%;
+        overflow-y: auto;
+      }
+      .content {
+        background-color: #474747; /* White Container Background */
+        border-radius: 8px;
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); /* Subtle Box Shadow */
+        padding: 20px;
+        max-width: 800px;
+        width: 100%;
+        color: #fff;
+      }
+      .list-group-item {
+        border-radius: 8px; /* Rounded corners */
+        padding: 20px; /* Padding */
+        margin-bottom: 10px; /* Add spacing between list items */
+        background: #2b2b2b;
+        color: #fff;
+        box-shadow: none !important;
+        border: 3px solid #8195b3;
+      }
+      .list-group-item:not(:last-child) {
+        margin-bottom: 20px; /* Increase spacing for last item */
+      }
+      .btn-mark {
+        margin-top: 10px; /* Add space below the button */
+        position: relative; /* Relative positioning */
+      }
+      .spinner-border {
+        position: absolute; /* Absolute positioning */
+        top: 50%; /* Center vertically */
+        left: 50%; /* Center horizontally */
+        transform: translate(-50%, -50%); /* Center spinner */
+      }
+      .row-flex {
+        display: flex;
+        justify-content: space-between;
+        padding: 2rem 15px;
+      }
+      .list-group-item + .list-group-item {
+        border-top: 3px solid #8195b3 !important;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container-box">
+      <div class="content">
+        <div class="row-flex">
+          <h2>Orders List</h2>
+          <div>
+            <button
+              type="button"
+              onclick="window.location.assign('/logout')"
+              class="btn btn-warning"
+            >
+              Logout
+            </button>
+          </div>
+        </div>
+        <ul id="ordersList" class="list-group">
+          <!-- Orders will be dynamically added here -->
+        </ul>
+      </div>
+    </div>
+
+    <!-- Bootstrap Bundle JS (Popper included) -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+      // Function to fetch orders from the server
+      function fetchOrders() {
+        fetch("api/get_orders")
+          .then((response) => response.json())
+          .then((data) => {
+            // Clear previous orders
+            document.getElementById("ordersList").innerHTML = "";
+
+            // Loop through the orders and add them to the list
+            data.orders.forEach((order) => {
+              const listItem = document.createElement("li");
+              listItem.className = "list-group-item";
+              listItem.innerHTML = `
+            <strong>ID:</strong> ${order.id}<br>
+            <strong>Submitted By:</strong> ${order.submitted_by}<br>
+            <strong>Link:</strong> ${order.link}<br>
+            <strong>Type:</strong> ${order.type}<br>
+            <strong>Line 1:</strong> ${order.line1}<br>
+            <strong>Line 2:</strong> ${order.line2}<br>
+            <strong>Duration:</strong> ${order.duration}<br>
+            <strong>Status:</strong> ${
+              order.complete == 1
+                ? "<strong style='color: green'>Complete</strong>"
+                : "<strong style='color: tomato'>Incomplete</strong>"
+            } <br>
+            <button id="button${order.id}" class="btn btn-sm ${
+                order.complete == 0 ? "btn-danger" : "btn-success"
+              } btn-mark" onclick="updateStatus(${order.id}, ${
+                order.complete
+              })">
+              ${order.complete == 1 ? "Mark Incomplete" : "Mark Complete"}
+              <span id="spinner${
+                order.id
+              }" class="spinner-border spinner-border-sm d-none" role="status" aria-hidden="true"></span>
+            </button>
+          `;
+              document.getElementById("ordersList").appendChild(listItem);
+            });
+          })
+          .catch((error) => console.error("Error fetching orders:", error));
+      }
+
+      // Function to update status
+      function updateStatus(id, complete) {
+        const button = document.getElementById(`button${id}`);
+        const spinner = document.getElementById(`spinner${id}`);
+        spinner.classList.remove("d-none"); // Show spinner
+
+        const newStatus = complete ? 0 : 1;
+        fetch("/update/status", {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/json",
+          },
+          body: JSON.stringify({ id: id, complete: newStatus }),
+        })
+          .then((response) => {
+            if (!response.ok) {
+              throw new Error("Failed to update status");
+            }
+            // Reload orders after successful update
+            fetchOrders();
+          })
+          .catch((error) => console.error("Error updating status:", error))
+          .finally(() => {
+            spinner.classList.add("d-none"); // Hide spinner
+          });
+      }
+
+      // Fetch orders when the page loads
+      window.onload = fetchOrders;
+    </script>
+  </body>
+</html>
